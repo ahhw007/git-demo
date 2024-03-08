@@ -6,7 +6,7 @@ hello GIT!
 hello GIT!
 hello GIT!
 hello GIT!
-hello GIT!
+hello GIT! git test 001
 hello GIT!
 hello GIT!
 hello GIT!
